@@ -15,7 +15,9 @@ import com.pyroblinchik.calories.navigation.navigate
 import com.pyroblinchik.calories.ui.theme.CaloriesTheme
 import com.pyroblinchik.core.navigation.Route
 import com.pyroblinchik.onboarding_presentation.welcome.WelcomeScreen
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
