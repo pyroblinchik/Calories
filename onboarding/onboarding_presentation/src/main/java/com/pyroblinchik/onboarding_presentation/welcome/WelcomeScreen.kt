@@ -13,7 +13,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextAlign
-import com.pyroblinchik.calories.R
+import com.pyroblinchik.core.R
 import com.pyroblinchik.core.navigation.Route
 import com.pyroblinchik.core.util.UiEvent
 import com.pyroblinchik.core_ui.LocalSpacing
